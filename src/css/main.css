@@ -810,11 +810,15 @@ progress::-webkit-progress-value {
 }
 
 .radio-wrapper-image label {
-  border-radius: 20px;
+  border-radius: 6px;
 }
 
 .radio-wrapper-box label {
   border-radius: 4px;
+}
+
+.radio-wrapper-image label img {
+  border-radius: inherit;
 }
 
 .review-answer-question {

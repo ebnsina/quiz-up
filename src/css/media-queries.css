@@ -478,4 +478,8 @@
     font-size: 1rem;
     border-radius: 4px;
   }
+
+  .radio-wrapper-image label {
+    border-radius: 20px;
+  }
 }
