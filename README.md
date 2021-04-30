@@ -1,3 +1,3 @@
 ## Quiz Up
 
-[Live](https://quiz-up-ebnsina.vercel.app/)
+[Live](https://quiz-up.vercel.app)
