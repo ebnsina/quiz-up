@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "question": "Which one is Lasso Tool?",
+      "choices": ["/images/1.1.png", "/images/1.2.png", "/images/1.3_c.png"],
+      "answer": "/images/1.3_c.png",
+      "hasImageAnswer": true
+    },
+    {
+      "id": "2",
+      "question": "Why would you get this pop up?",
+      "questionImage": "/images/2.png",
+      "choices": [
+        "The layer you are trying to work on is locked",
+        "Doesn't matter just close it and try again",
+        "Because photoshop is broken"
+      ],
+      "answer": "The layer you are trying to work on is locked",
+      "hasImageQuestion": true
+    },
+    {
+      "id": "3",
+      "question": "This is the default selection setting on the toolbar. With this you can make a selection of any rectangular size and shape.",
+      "choices": [
+        "Rectangular marquee tool",
+        "Elliptical marquee tool",
+        "Single row"
+      ],
+      "answer": "Elliptical marquee tool"
+    },
+    {
+      "id": "4",
+      "question": "This is the default selection setting on the toolbar. With this you can make a selection of any rectangular size and shape.",
+      "choices": [
+        "Rectangular marquee tool",
+        "Elliptical marquee tool",
+        "Single row"
+      ],
+      "answer": "Elliptical marquee tool"
+    },
+    {
+      "id": "5",
+      "question": "Why would you get this pop up?",
+      "questionImage": "/images/2.png",
+      "choices": [
+        "The layer you are trying to work on is locked",
+        "Doesn't matter just close it and try again",
+        "Because photoshop is broken"
+      ],
+      "answer": "The layer you are trying to work on is locked",
+      "hasImageQuestion": true
+    },
+    {
+      "id": "6",
+      "question": "This is the default selection setting on the toolbar. With this you can make a selection of any rectangular size and shape.",
+      "choices": [
+        "Rectangular marquee tool",
+        "Elliptical marquee tool",
+        "Single row"
+      ],
+      "answer": "Elliptical marquee tool"
+    },
+    {
+      "id": "7",
+      "question": "Why would you get this pop up?",
+      "questionImage": "/images/2.png",
+      "choices": [
+        "The layer you are trying to work on is locked",
+        "Doesn't matter just close it and try again",
+        "Because photoshop is broken"
+      ],
+      "answer": "The layer you are trying to work on is locked",
+      "hasImageQuestion": true
+    },
+    {
+      "id": "8",
+      "question": "This is the default selection setting on the toolbar. With this you can make a selection of any rectangular size and shape.",
+      "choices": [
+        "Rectangular marquee tool",
+        "Elliptical marquee tool",
+        "Single row"
+      ],
+      "answer": "Elliptical marquee tool"
+    },
+    {
+      "id": "9",
+      "question": "Which one is Lasso Tool?",
+      "choices": ["/images/1.1.png", "/images/1.2.png", "/images/1.3_c.png"],
+      "answer": "/images/1.3_c.png",
+      "hasImageAnswer": true
+    },
+    {
+      "id": "10",
+      "question": "This is the default selection setting on the toolbar. With this you can make a selection of any rectangular size and shape.",
+      "choices": [
+        "Rectangular marquee tool",
+        "Elliptical marquee tool",
+        "Single row"
+      ],
+      "answer": "Elliptical marquee tool"
+    }
+  ]
+}
